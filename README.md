@@ -1,5 +1,6 @@
-###Andrei Tuta Portfolio
-#Hackathon Experience
+### Andrei Tuta Portfolio
+
+# Hackathon Experience
 | My                   	| Hackathon                                                                	| Experience                                                                                                                                                 	|
 |----------------------	|--------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Name                 	| Prize                                                                    	| Description                                                                                                                                                	|
@@ -17,12 +18,12 @@
 
 
 
-#Other Projects:
+# Other Projects:
     ⋅⋅* SocaDance MD: During the summer of 2016, I worked pro- bono as a web developer for a company in my hometown. I created their website and dealt with hosting and administrating it ever since it was published. Ref: Website - socadance.ro
     ⋅⋅*  Monopoly AI: created my own webapp version of Monopoly, with a hardcoded AI. Source code available on my GitHub profile.
     ⋅⋅*  Rotaract Birmingham Website and Social Media bots: being the Social Department of Rotaract Birmingham, I decided to create their website in HTML using CSS and JS as well. On the social networking aspect, I decided to create bots for all our platforms. Projects are not finished, yet source code is available.
 
-#Awards and Diplomas:
+# Awards and Diplomas:
     ⋅⋅* LPI Certification: understanding of the Linux and open source industry and knowledge of the most popular open source Applications;understanding the major components of the Linux operating system, and have the technical proficiency to work on the Linux command line; understanding of security and administration related topics such as user/group management, working on the command line, and permissions.
     
     ⋅⋅* Numerous Udemy Certificates: numerous certificates in variated domains ranging from programming languages to Tools and how to use them. Please see the folder named “Certificates” on my GitHub for further references.
