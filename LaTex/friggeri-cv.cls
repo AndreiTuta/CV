@@ -200,7 +200,6 @@ BoldItalicFont=texgyreheros-bolditalic.otf
     #4\vspace{\parsep}%
   }\\}
 
-
 %%%%%%%%%%%%%%
 % Side block %
 %%%%%%%%%%%%%%
