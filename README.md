@@ -19,7 +19,7 @@
 
 
 # Other Projects:
-    ..* SocaDance MD: During the summer of 2016, I worked pro- bono as a web developer for a company in my hometown. I created their website and dealt with hosting and administrating it ever since it was published. Ref: Website - socadance.ro
+    ··* SocaDance MD: During the summer of 2016, I worked pro- bono as a web developer for a company in my hometown. I created their website and dealt with hosting and administrating it ever since it was published. Ref: Website - socadance.ro
     ⋅⋅*  Monopoly AI: created my own webapp version of Monopoly, with a hardcoded AI. Source code available on my GitHub profile.
     ⋅⋅*  Rotaract Birmingham Website and Social Media bots: being the Social Department of Rotaract Birmingham, I decided to create their website in HTML using CSS and JS as well. On the social networking aspect, I decided to create bots for all our platforms. Projects are not finished, yet source code is available.
 
