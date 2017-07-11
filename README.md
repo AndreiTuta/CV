@@ -1,4 +1,4 @@
-### Portfolio of Andrei Tuta
+# Portfolio of Andrei Tuta
 
 # Hackathon Experience
 
@@ -14,7 +14,7 @@
 | Aston Hack 2016      	| CapitalOne and AWS Prize                                                 	| Guy Fawkes simulator, based on 4 trials with riddles and programming challenges.,Python, Flask, Shell, AWS, Majestic API                                   	|
 | GreatUniHack 2016    	| Barclay's Prize                                                          	| CCTV based navigator, indicating the shortest and safest (passing through as many CCTV cameras possible) route.,Python, HTML, CSS, Flask, Node.js, JS, AWS 	|
 | HackNotts 2016       	| Amazon Prize                                                             	| Werewolf (or Mafia) plugin for Alexa. Python, Flask, JS, HTML, AWS                                                                                         	|
-# Disclaimer All source code is available either on my GitHub profile or my teammates 	
+### Disclaimer All source code is available either on my GitHub profile or my teammates 	
 
 
 
