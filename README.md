@@ -24,9 +24,9 @@
     * Rotaract Birmingham Website and Social Media bots: being the Social Department of Rotaract Birmingham, I decided to create their website in HTML using CSS and JS as well. On the social networking aspect, I decided to create bots for all our platforms. Projects are not finished, yet source code is available.
     * Martin-Andrei Studio : Worked for a client developing his photography website.Used Meteor for complete integration and I also managed the whole server side aspect of the business.Soon it will be live and a link will be available.
 
-# Awards and Diplomas:
+# Tech Awards and Diplomas:
     * LPI Certification: understanding of the Linux and open source industry and knowledge of the most popular open source Applications;understanding the major components of the Linux operating system, and have the technical proficiency to work on the Linux command line; understanding of security and administration related topics such as user/group management, working on the command line, and permissions.
-    
+    * Brum Tech Drinks: memebership in my local tech development group.Met a big number of interesting people from who I learned a lot about technology and different branches found in the world. 
 # Certifications:     
       * Numerous Udemy Certificates: numerous certificates in variated domains ranging from programming languages to Tools and how to use them. Please see the folder named “Certificates” on my GitHub for further references.
       * Programming certification : most of my certificates mentioned before are related to different programming languages I've mastered in either University,Hackathons or Online enviorment.Those languages include but are not limited to: 
