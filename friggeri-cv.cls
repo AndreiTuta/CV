@@ -156,7 +156,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 % List environment %
 %%%%%%%%%%%%%%%%%%%%
 
-\setlength{\tabcolsep}{2pt}
+\setlength{\tabcolsep}{4pt}
 \newenvironment{entrylist}{%
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
 }{%
@@ -184,7 +184,30 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{4.3}(1.3, 4.33)
+  
+  
+  \begin{textblock}{4.3}(1.2, 4.33)
+  \begin{flushright}
+  \obeycr
+}{%
+  \restorecr
+  \end{flushright}
+  \end{textblock}
+  \let\section\oldsection
+}
+
+
+\RequirePackage[absolute,overlay]{textpos}
+\setlength{\TPHorizModule}{1cm}
+\setlength{\TPVertModule}{1cm}
+\newenvironment{aside2}{%
+  \let\oldsection\section
+  \renewcommand{\section}[1]{
+    \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
+  }
+  
+  
+  \begin{textblock}{4.3}(1.2, 1.4)
   \begin{flushright}
   \obeycr
 }{%
