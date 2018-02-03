@@ -1,6 +1,16 @@
 # Andrei Tuta
 
 ### Hi,here is my portfolio
+
+# Internships
+
+  
+ * **Junior Database Administrator**,06/16- 08/16, _Logika IT Solutions,Bucharest_ -
+ Manged the database of one single client after 2 weeks of training which consisted of an almost complete DBA course.
+    
+  * **Junior Database Administrator**,06/17 - 09/17,_Oracle Romania,Bucharest_ -
+Managed the databases of 10 clients simultaneously.Created scripts for checking each client daily,saving up to 2 hours/day.
+
 # Hackathons
 * Local Hack Day - [Oct,2015 ](https://devpost.com/software/hackalarm-zm1tcr)
 
@@ -23,13 +33,15 @@
 * HackUPC, [Mar,2017](https://devpost.com/software/amisafe-sq2fv9) & [Oct,2017](https://devpost.com/software/notarealalexa) - I'm very proud of those projects,even though they haven't been awarded with anything and just wanted to list them here too 😇
 
 
-# Programming Projects
+# Current Programming Projects
 
 * R-GGPlot , [May,2017](https://github.com/AndreiTuta/R-GGplot) - *Short analysis of the Iris species data packet using numerous tools provided by the analysis language R.Submitted as Erasmus exchange project.*
 
 * Dase , [May,2017](https://github.com/AndreiTuta/DASE) - *Weka Filters implementation in Java.Project in partnership with Prof.Daniel Rodriguez,UAH,Spain , during my Erasmus Exchange.*
 # Writing 
 I'm currently in the process of rebuilding my blog from scratch...
+
+_For those interested in it , it will be built using Ruby,JavaScript and Markdown and will feature posts about books,workouts and travelling experiences_.
 
 # Web courses
 Most of my programming experience comes from self taught material and web tutorials,focusing on different aspects of programming such as : 
@@ -38,3 +50,7 @@ Most of my programming experience comes from self taught material and web tutori
 * __Data visualisation__ (R,Statistics,Data Analysis)
 * __Database Administration__ (Mongo,MySQL,OEL)
 * __Javascript__ (React,Typescript,Angular,)
+
+# Hobbies
+
+    
