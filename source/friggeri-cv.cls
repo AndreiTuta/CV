@@ -20,7 +20,7 @@
 \definecolor{darkgray}{HTML}{333333}
 \definecolor{gray}{HTML}{4D4D4D}
 \definecolor{lightgray}{HTML}{999999}
-\definecolor{darkpurple}{HTML}{800080}
+\definecolor{carbon}{HTML}{443F3F}
 
 \definecolor{green}{HTML}{C2E15F}
 \definecolor{orange}{HTML}{FDA333}
@@ -37,7 +37,7 @@
   \colorlet{fillheader}{white}
   \colorlet{header}{gray}
 \else
-  \colorlet{fillheader}{darkpurple}
+  \colorlet{fillheader}{carbon}
   \colorlet{header}{white}
 \fi
 \colorlet{textcolor}{gray}
