@@ -12,7 +12,7 @@
 
 * Dase, [May,2017](https://github.com/AndreiTuta/DASE) - *Weka Filters implementation in Java.Project in partnership with Prof.Daniel Rodriguez,UAH, Spain ,during my Erasmus Exchange.*
 
-* Lana, [Sep,2017] - *My final year project,an application of sentiment analysis in developing a chatbot able to reveal early signs of depression or psychological disorders.
+* Lana, [Sep,2017] - *My final year project,an application of sentiment analysis in developing a chatbot able to reveal early signs of depression or psychological disorders.*
 
 # Internships that I took during the summer time while I was back home in Romania:
   
@@ -24,9 +24,9 @@ Managed the databases of 10 clients simultaneously.Created scripts for checking 
 
 # Hackathons
 ###### The second best source of fun that you can easily practice on a weekend just to relax
-* Local Hack Day - [Oct,2015 ](https://devpost.com/software/hackalarm-zm1tcr) - *Sometimes is begginers luck,sometimes I don't win anything...
+* Local Hack Day - [Oct,2015 ](https://devpost.com/software/hackalarm-zm1tcr) - *Sometimes is begginers luck,sometimes I don't win anything...*
 
-* Aston Hack - [Nov,2015](https://devpost.com/software/safedrive-ails80) - *Neither second time unfortunatelly
+* Aston Hack - [Nov,2015](https://devpost.com/software/safedrive-ails80) - *Neither second time unfortunatelly*
 
 ###### And then it happends...
 
