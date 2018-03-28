@@ -2,9 +2,9 @@
 
 ### Hi,this is my portfolio with a little info on my background.
 ---
-######(You may already know that I'm about to finish University this summer and to bo honest,it's kind of scary that so much stuff happened in the last three years...)
+###### (You may already know that I'm about to finish University this summer and to bo honest,it's kind of scary that so much stuff happened in the last three years...)
 
-####First and in my opinion,my business card
+####F irst and in my opinion,my business card
 
 # Current Programming Projects:
 
