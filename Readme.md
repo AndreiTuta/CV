@@ -17,10 +17,12 @@
 # Internships that I took during the summer time while I was back home in Romania:
   
  * **Junior Database Administrator**,06/16- 08/16, _Logika IT Solutions,Bucharest_ -
- Manged the database of one single client after 2 weeks of training which consisted of an almost complete DBA course.
+Managed the database of one single client after 2 weeks\\ of training which consisted of an almost complete DBA course.
     
   * **Junior Database Administrator**,06/17 - 09/17,_Oracle Romania,Bucharest_ -
-Managed the databases of 10 clients simultaneously.Created scripts for checking each client daily,saving up to 2 hours/day.
+      Managed a complete database installation
+      followed by the professional background of administration, development, security, 
+      performance, clustering, and high availability 
 
 # Hackathons
 ###### The second best source of fun that you can easily practice on a weekend just to relax
