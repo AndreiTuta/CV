@@ -1,4 +1,5 @@
-## Andrei Tuta
+# Redeveloping this page!SHoul be up and running by Friday
+<!-- ## Andrei Tuta
 
 ### Hi,this is my portfolio with a little info on my background.
 ---
@@ -58,4 +59,4 @@ Also , depending on where you're reading this,you may also be aware of my newly 
 
 
 
-    
+     -->
