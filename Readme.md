@@ -1,4 +1,5 @@
-# Redeveloping this page!SHoul be up and running by Friday
+# Redeveloping this page!
+Should be up and running by Friday
 <!-- ## Andrei Tuta
 
 ### Hi,this is my portfolio with a little info on my background.
