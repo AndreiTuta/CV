@@ -1,12 +1,7 @@
-# Redeveloping this page!
-Should be up and running by Friday
-<!-- ## Andrei Tuta
+<!-- # Redeveloping this page!
+Should be up and running by Friday -->
+ ## Andrei Tuta
 
-### Hi,this is my portfolio with a little info on my background.
----
-###### (You may already know that I'm about to finish University this summer and to bo honest,it's kind of scary that so much stuff happened in the last three years...)
-
-#### First and in my opinion,my business card
 
 # Current Programming Projects:
 
@@ -25,12 +20,6 @@ Should be up and running by Friday
 Managed the databases of 10 clients simultaneously.Created scripts for checking each client daily,saving up to 2 hours/day.
 
 # Hackathons
-###### The second best source of fun that you can easily practice on a weekend just to relax
-* Local Hack Day - [Oct,2015 ](https://devpost.com/software/hackalarm-zm1tcr) - *Sometimes is begginers luck,sometimes I don't win anything...*
-
-* Aston Hack - [Nov,2015](https://devpost.com/software/safedrive-ails80) - *Neither second time unfortunatelly*
-
-###### And then it happends...
 
 * Bath Hack, [Nov,2015](https://devpost.com/software/technoquery ) - *Won Microsoft most innovative prize* 
 
@@ -54,10 +43,5 @@ Most of my programming experience comes from self taught material and web tutori
 * __Data visualisation__ (R,Statistics,Data Analysis)
 * __Database Administration__ (Mongo,MySQL,OEL)
 * __Javascript__ (React,Typescript,Angular & )
-
-# Writing 
-Also , depending on where you're reading this,you may also be aware of my newly started blog that I'm learning how to properly manage on Github pages with Jekyll
-
-
-
-     -->
+* __freeCode Camp__ (still working on obtaining all the certifications)
+* __edX  ColumbiaX: BAMM.101x Analytics in Python__
