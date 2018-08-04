@@ -11,19 +11,11 @@ Should be up and running by Friday -->
 
 * Lana, [Sep,2017] - *My final year project,an application of sentiment analysis in developing a chatbot able to reveal early signs of depression or psychological disorders.*
 
-# Internships that I took during the summer time while I was back home in Romania:
-  
- * **Junior Database Administrator**,06/16- 08/16, _Logika IT Solutions,Bucharest_ -
- Manged the database of one single client after 2 weeks of training which consisted of an almost complete DBA course.
-    
-  * **Junior Database Administrator**,06/17 - 09/17,_Oracle Romania,Bucharest_ -
-Managed the databases of 10 clients simultaneously.Created scripts for checking each client daily,saving up to 2 hours/day.
-
 # Hackathons
 
 * Bath Hack, [Nov,2015](https://devpost.com/software/technoquery ) - *Won Microsoft most innovative prize* 
 
-* Warwick Hack, [Mar,2016](https://devpost.com/software/nfccards) - *Won best new technology prize for working with something that none of us worked before,Android Studio* 
+* Warwick Hack, [Mar,2016](https://devpost.com/software/nfccards) - *Won best new technology prize for working with something that none of us worked before, Android Studio*
 
 * Hack the Midlands, [Sep,2016](https://devpost.com/software/election-bot) - *The whole project was created as a satire to the American Election Tweets and it won the project from SchoolofCode for best web design*
 
