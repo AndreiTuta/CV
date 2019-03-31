@@ -1,0 +1,223 @@
+%-------------------------
+% Resume in Latex
+% Author : Andrei Tuta
+% License : MIT
+%------------------------
+
+\documentclass[onesided,12pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.2in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+
+{\small\begin{tabular}[c]{l}
+  \textbf{Manchester,UK}\\
+  \href{http://www.github.com/andreituta}{github.com/andreituta}\\
+  \href{http://www.linkedin.com/in/andreituta}{linkedin.com/in/andreituta}
+\end{tabular}}\hfill%
+{\Large\bfseries\begin{tabular}[c]{c}
+  Andrei Nicolae Tuță
+\end{tabular}}\hfill%
+{\small\begin{tabular}[c]{r}
+  074 93935418  \\
+  \href{mailto:tuta.andrei96@gmail.com}{tuta.andrei96@gmail.com}
+\end{tabular}}%
+
+
+%-----------CAREER-----------------
+\section{Professional Profile}
+        
+          { \quad \quad Passionate Software Developer,  working on developing a trusted online and mobile software e-commerce product used by businesses across the globe with a complex underlying back end, consisting of a variety of popular development technologies, combined to build reliable SaaS and driven by a passion for improving current technologies and a desire for my team and company to succeed. }
+
+
+
+%-----------EXPERIENCE-----------------
+\section{Professional History}
+  \resumeSubHeadingListStart
+  
+  \resumeSubheading
+    {KMP Digitata}{Stockport, UK}
+    {Junior Java Developer}{Oct 2018 - present}
+      \resumeItemListStart
+        \resumeItem{Backend Java developer}
+            { Daily tasks include a series of developing new or improving particular components of the current version od the product. The back end integrates Java technology, running on Apache Tomcat servers and connected to a relational database system, featuring JOOQ implementations.}
+        \resumeItem{Front end Development}
+            {Development also involves front end work such as planning and deployment of new web-application components created using scripting mark-up languages (JQuery, HTML, CSS etc.)}
+          
+      \resumeItemListEnd
+      
+  \resumeSubheading
+    {URJ 6 Points Sci-tech}{Byfield, MA}
+    {Counselor/ Specialist}{Jun 2018 - Aug 2018}
+      \resumeItemListStart
+        \resumeItem{Programming assistant}
+          {Helping instructors deliver the programming workshop, focused on programming in Processing.After the first session, development speed improved by 50\%. }
+        \resumeItem{Workshop Instructor}
+          {Volunteered to run my own workshop, teaching participants the basic syntax of HTML, CSS, JS and coding a virtual board game.}
+      \resumeItemListEnd
+    
+    \resumeSubheading
+    {Birmingham City University}{Birmingham, UK}
+    {Technical Student Assistant}{Sep 2017 - Jun 2018}
+      \resumeItemListStart
+        \resumeItem{Java demonstrator}
+          {Managed groups of students during their laboratory sessions. Tasks involved explaining concepts and helping with debugging their projects. }
+        \resumeItem{Innovation Fest Mentor}
+          {Supervised two teams of students with the technical development, planning and pitching of their entries for a local technology contest, which they won. }
+      \resumeItemListEnd
+
+    \resumeSubheading
+    {Oracle Romania}{Bucharest, RO}
+    {Junior Database Administrator}{Jun - Sep 2017}
+      \resumeItemListStart
+        \resumeItem{Oracle DBA training}
+          {Improved my database technologies skills. This training covered topics such as administration, back-up, recovery and automation.}
+        \resumeItem{Administrator}
+          {Installed, configured and administered two separate databases, followed by restores and regular system backups. .}
+      \resumeItemListEnd
+      
+    
+    \resumeSubheading
+    {The Business Information Portal}{Birmingham,UK}{Software Developer}{Oct 2015 - Sep 2016}
+        \resumeItemListStart
+            \resumeItem
+               {Part-time development}
+               {Worked within a small team to develop solutions for people with visual impairment. Gained experience working within a large code base and improved at writing clean, testable  code.}
+             \resumeItem
+             {Testing}
+             {Applied Agile methodologies and CI processes with Test Driven software development in various environments.Learned the importance of risk management in software: continuous builds, Quality Assurance and release cycles .}
+        \resumeItemListEnd
+      
+      \resumeSubheading
+    {Logika IT Solutions}{Bucharest, RO}
+    {Junior Database Administrator }{Jun - Aug 2016}
+      \resumeItemListStart
+        \resumeItem{Internship}
+        {Worked in a team of 4 people managing the databases of multiple clients. Other responsibilities included writing reports and suggestions on ways to improve the work-flow and diminish cost. }
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+  {Birmingham City University}{Birmingham, UK}
+  {B.Sc. in Computer Science - Data Analysis, Software Engineering and Database administration}
+  {2015 - 2018}
+    \resumeSubheading
+  {Universidad de Alcala}{Alcala de Henares, ESP}
+  {B.Sc. in Computer Science - Erasmus semester, Software Engineering and Development }
+  {Jan - Jun 2017}
+    
+  \resumeSubHeadingListEnd
+
+
+  
+
+%--------PROGRAMMING SKILLS------------
+\section{Skills}
+ \resumeSubHeadingListStart
+    \item{
+     {\textbf{Programming Languages}}{:  Java, Javascript, SQL, Python}}
+     \item{
+     {\textbf{Technologies and frameworks}}{: AWS, Tomcat, Node, MySQL, Android Studio }
+    }
+    \item{
+    {\textbf{Spoken Languages}}{: Romanian, English, Spanish}    
+    }
+ \resumeSubHeadingListEnd
+
+% ------------Extracurricular activities------------
+ \section{Extracurricular activities}
+    \resumeSubHeadingListStart
+        \resumeSubheading
+        {Writer, Medium}
+        {2017 - present}
+        {Writing articles featuring subjects related to programming and lifestyle.}
+        
+        \resumeSubheading
+        {Outward Mobility Ambassador, BCU CEBE}
+        {Jan - Jun 2018}
+        {Managing and recruiting students for international programs and social media development.}
+        
+        \resumeSubheading
+        {President, BCU RoSoc}
+        {2016 - 2018}
+        {Event planning, budgeting \& team management.}
+         
+        \resumeSubheading
+        {Secretary, Rotaract Club Birmingham}
+        {2015 - 2017}
+        {Event planning, PR \& note-taking}
+
+\resumeSubHeadingListEnd
+
+%-------------------------------------------
+\end{document}
