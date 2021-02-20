@@ -4,7 +4,7 @@
 % License : MIT
 %------------------------
 
-\documentclass[onesided,12pt]{article}
+\documentclass[12pt]{article}
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -16,6 +16,7 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{fancyhdr}
 \usepackage{graphicx}
+\usepackage{datetime}
 
 
 \pagestyle{fancy}
@@ -66,7 +67,6 @@
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
 \newcommand{\resumeItemListStart}{\begin{itemize}}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
-
 %-------------------------------------------
 %%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -86,30 +86,19 @@
 {\small\begin{tabular}[c]{r}
   074 93935418  \\
   \href{mailto:tuta.andrei96@gmail.com}{tuta.andrei96@gmail.com}
-  \\ \today
+  \\ 
+  \monthname, 2021
+    
+    
 \end{tabular}}%
 
 
 %-----------CAREER-----------------
 \section{Professional Profile}
         
-          { \quad \quad  Versatile and competitive professional with development experience ranging in size from small private projects to full scale applications, currently working on improving and expanding an online and mobile software e-commerce product. Driven by a passion for improving current understanding of technologies, expanding knowledge further and a desire for my team to succeed. }
+          { \quad \quad  Versatile professional with development experience ranging in size from small private projects to full-scale applications. Currently working on developing an online and mobile e-commerce product's functionality and CRM, entrusted worldwide by customers.
+          }
 
-
-
-%--------PROGRAMMING SKILLS------------
-\section{Skills}
- \resumeSubHeadingListStart
-    \item{
-     {\textbf{Programming Languages}}{:  Java, Javascript, SQL, Bash, Python, Haskell}}
-     \item{
-     {\textbf{Technologies and frameworks}}{: AWS, EC2, S3, Springboot, Docker, Git, , Node, MySQL, MongoDB, Eclipse, JUnit, Mockito }
-    }
-    \item{
-    {\textbf{Spoken Languages}}{: Romanian, English, French, Spanish}    
-    }
- \resumeSubHeadingListEnd
- 
 %-----------EXPERIENCE-----------------
 \section{Professional History}
   \resumeSubHeadingListStart
@@ -118,12 +107,18 @@
     {Aeroparker}{Stockport, UK}
     {Java Developer}{Oct 2018 - present}
       \resumeItemListStart
+        \resumeItem{Team leader}
+            {
+            Managing a team of 4 developers working in a SCRUM framework.
+            }
         \resumeItem{Spring expertise}
-            {Developed implementations of Spring based applications based on REST, Jooq, JWT and other tools. }
+            {Developed implementations of Spring based microservice applications using JOOQ, JWT, SQS and Thymeleaf. 
+            }
         \resumeItem{BI tool}
-            { Developed a BI tool used daily by a large number of clients to get yearly, monthly and hourly occupancy through REST calls and using D3.js visualisation.}
-        \resumeItem{Java EE}
-            { Worked on developing new features for the Java core project, built using Apache Tomcat, AJAX technologies and JSP.}
+            { Developed a BI tool used daily by a large number of clients to get product metrics through REST calls and using D3.js for visualisation. }
+            
+        \resumeItem{Java system}{
+            Planned, designed and implemented new features for the Java core project, built using Apache Tomcat, AJAX, technologies and JSP.}
           
       \resumeItemListEnd
       
@@ -141,20 +136,24 @@
     {Birmingham City University}{Birmingham, UK}
     {Technical Student Assistant}{Sep 2017 - Jun 2018}
       \resumeItemListStart
-        \resumeItem{Student Assistant \& Ambassador}
-          {Managed and aid groups of students during courses and activities. Tasks varied explaining programming concepts and active development to large scale organisation of an event and providing tech support if needed. }
+        \resumeItem{Student Assistant}
+          {Managed and aided groups of students during courses and activities. Tasks varied explaining programming concepts and active development to }
+        \resumeItem{Student Ambassador}
+            { Organised large scale events and provided tech support and resources. }
         \resumeItem{Innovation Fest Mentor}
-          {Supervised two teams of students with the technical development, planning and pitching of their entries for a local technology contest, which they won. }
+          {Supervised two teams of students with the planning, technical development and pitching of their entries for a local technology contest, which they won. }
       \resumeItemListEnd
 
     \resumeSubheading
     {Oracle Romania}{Bucharest, RO}
-    {Junior Database Administrator}{Jun - Sep 2017}
+    {Database Administrator}{Jun - Sep 2017}
       \resumeItemListStart
         \resumeItem{Oracle DBA training}
           {Received training covering topics such as administration, back-up, recovery and automation.}
         \resumeItem{MySQL}
-          {Participated in guided training on MySQL and Orace SQL}
+          {Participated in guided bootcamps on MySQL and Orace SQL}
+        \resumeItem{Previous internship}
+          {The previous year, participated in a summer internship as a Junior in a team of 4 managing databases for multiple clients. Other responsibilities included writing reports and suggestions on ways to improve the work-flow and diminish cost. }
       \resumeItemListEnd
       
     
@@ -169,16 +168,29 @@
     %          {Applied Agile methodologies and CI processes with Test Driven software development in various environments.Learned the importance of risk management in software: continuous builds, Quality Assurance and release cycles .}
     %     \resumeItemListEnd
       
-      \resumeSubheading
-    {Logika IT Solutions}{Bucharest, RO}
-    {Junior Database Administrator }{Jun - Aug 2016}
-      \resumeItemListStart
-        \resumeItem{Summer internship}
-        {Worked as a trainee in a team of 4 people managing databases for multiple clients. Other responsibilities included writing reports and suggestions on ways to improve the work-flow and diminish cost. }
-      \resumeItemListEnd
+    %   \resumeSubheading
+    % {Logika IT Solutions}{Bucharest, RO}
+    % {Junior Database Administrator }{Jun - Aug 2016}
+    %   \resumeItemListStart
+    %     \resumeItem{Summer internship}
+    %     {Worked as a trainee in a team of 4 people managing databases for multiple clients. Other responsibilities included writing reports and suggestions on ways to improve the work-flow and diminish cost. }
+    %   \resumeItemListEnd
 
   \resumeSubHeadingListEnd
 
+%--------SKILLS------------
+\section{Skills}
+ \resumeSubHeadingListStart
+    \item{
+     {\textbf{Programming Languages}}{:  Java, Javascript, SQL, Python}}
+     \item{
+     {\textbf{Technologies}}{: AWS(EC2, S3, SQS), Springboot, Tomcat 7\&9, node-modules, MySQL, Testing (JUnit Jupiter, Mockito, Selenium), Jupyter, Flask, Jinja, Docker, Git}
+    }
+    \item{
+    {\textbf{Spoken Languages}}{: Romanian, English, French, Spanish}    
+    }
+ \resumeSubHeadingListEnd
+ 
 
 %-----------EDUCATION-----------------
 \section{Education}
@@ -192,7 +204,6 @@
   {Universidad de Alcala}{Alcala de Henares, SP}
   {Software Design, Cloud computing \& Agile Development }
   {Jan - Jun 2017}
-    
   \resumeSubHeadingListEnd
 
 
@@ -200,20 +211,29 @@
 % % ------------Extracurricular activities------------
  \section{Extracurricular activities}
     \resumeSubHeadingListStart
+         \resumeSubheading
+        {Participant} {CodeUp Stockport}
+        {Participating and helping our members at our monthly Meetups.}{Jul 2019 - present}
         \resumeSubheading
-        {Volunteer} {CodeUp Stockport}
-        {Volunteering with helping our members at our monthly Meetups.}{Jul 2019 - present}
+        {Writer}{Medium}
+        {Writing articles featuring subjects related to programming \& literature.}
+        {2017 - present}
         \resumeSubheading
         {Writer}{Medium}
         {Writing articles featuring subjects related to programming \& literature.}
         {2017 - present}
           \resumeSubheading
         {Camp counselor}{URJ 6Points Sci tech}
-        {Assisted and organised programming workshops on Java, \& Processing}
+        {Assisted \& organised programming workshops for campers on Java \& Processing}
         {Jun - Aug 2018}
-        \resumeSubheading
-        {Outward Mobility Ambassador} {BCU CEBE}
-        {Managing and recruiting students for international programs \& social media development.} {Jan - Jun 2018}
+        % \resumeSubheading
+        % {Outward Mobility Ambassador} {BCU CEBE}
+        % {Managing \& recruiting students for international programs \& social media development.} {Jan - Jun 2018}
+         \resumeSubheading
+        {Society Advisor}
+        {HaCS}
+        {Planned and volunteered for hosting local Hackathons.}
+        {Sep 2015 - Jun 2018}
         \resumeSubheading
         {President}
         {BCU RoSoc}
@@ -221,7 +241,7 @@
         \resumeSubheading
         {Secretary}
         {Rotaract Club Birmingham}
-        {Event planning, PR \& note-taking.}{2015 - 2017}
+        {PR \& note-taking.}{2015 - 2017}
 \resumeSubHeadingListEnd
 
 %-------------------------------------------
